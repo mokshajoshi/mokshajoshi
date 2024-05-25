@@ -1,6 +1,5 @@
 
-<h2> Hi there, I'm <span style="color: blue;">Moksha</span> 👋 👩‍💻</h2>
-<h2> I'm from India 🇮🇳</h2>
+<h2> Hi there, I'm <span style="color: blue;">Moksha</span> 👋 👩‍💻 <br/> I'm from India 🇮🇳</h2>
 I am a passionate Flutter and Android developer. 
 My expertise lies in Dart programming, UI/UX design, and  seamlessly integrating APIs.
 Clear understanding of task. Motivated to learn, grow and excel in different technology.
