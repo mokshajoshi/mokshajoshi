@@ -1,4 +1,5 @@
-## Hi there 👋 My name is Moksha Joshi
+## Hi there, I'm <span style="color: blue;">Moksha Joshi</span> 👋
+### I'm from India 🇮🇳
 
 <!--
 **mokshajoshi/mokshajoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
