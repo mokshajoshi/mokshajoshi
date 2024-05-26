@@ -15,19 +15,17 @@
  <br/>
 
 ## Skills </br>
-<img src="assets/flutter.png" alt="flutter" width="50" height="50"/> 
-&nbsp;&nbsp;
-<img src="assets/dart.png" alt="dart" width="50" height="50"/> 
-&nbsp;&nbsp;
-<img src="assets/android.png" alt="android" width="50" height="50"/> 
-&nbsp;&nbsp;
-<img src="assets/java.png" alt="java" width="50" height="50"/> 
-&nbsp;&nbsp;
-<img src="assets/git.png" alt="ios" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="assets/mysql.png" alt="swiftui" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="assets/firebase.png" alt="firebase" width="50" height="50"/> 
+<table>
+  <tr>
+    <td><img src="assets/flutter.png" alt="Flutter" width="50" height="50"></td>
+    <td><img src="assets/dart.png" alt="Dart" width="50" height="50"></td>
+    <td><img src="assets/android.png" alt="Android" width="50" height="50"></td>
+    <td><img src="assets/java.png" alt="Java" width="50" height="50"></td>
+    <td><img src="assets/git.png" alt="Git" width="50" height="50"></td>
+    <td><img src="assets/firebase.png" alt="Firebase" width="50" height="50"></td>
+    <td><img src="assets/mysql.png" alt="MySql" width="50" height="50"></td>
+  </tr>
+</table> 
 
 <!--
 **mokshajoshi/mokshajoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
